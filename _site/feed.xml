@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uzumaki Studios</title>
+    <description>Jogos políticos politicamente incorretos.</description>
+    <link>http://uzumakistudios.com</link>
+    <atom:link href="http://uzumakistudios.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      
+        <item>
+          <title>Foo bar</title>
+          <pubDate>Thu, 28 Aug 2014 00:00:00 -0300</pubDate>
+          <link></link>
+          <guid isPermaLink="true"></guid>
+          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; box-shadow: 0 0 0 1px white, 0 0 0 2px magenta; padding: 20px 30px; border: 1px solid red;</category>
+        </item>
+      
+    
+  </channel>
+</rss>

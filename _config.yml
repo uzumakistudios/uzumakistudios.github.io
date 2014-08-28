@@ -1,0 +1,8 @@
+highlighter: pygments
+permalink: /otter-pop/:year/:month/:day/:title
+markdown: rdiscount
+exclude: ['.git']
+name: "Uzumaki Studios"
+description: "Jogos políticos politicamente incorretos."
+long_description: "Estúdio de criação de jogos políticos politicamente incorretos."
+url: http://uzumakistudios.com
