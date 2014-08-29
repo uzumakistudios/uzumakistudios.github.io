@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PET na comunidade Steam Greenlight
+title: PET na Steam Greenlight
 ---
 
 ...
