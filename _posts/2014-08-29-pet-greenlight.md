@@ -7,7 +7,7 @@ We launched yesterday our Pet Project in Greenlight community from Steam, with <
 
 As we are in very early development we released a _screencast_ (in BR-Portuguese)that present the current state and the concept of the gameplay.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/sIHtOMnMq_Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/sIHtOMnMq_Y" frameborder="0" allowfullscreen></iframe>
 
 
 
