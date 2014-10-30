@@ -12,7 +12,7 @@ Please be connected with our <a href="https://twitter.com/studiosuzumaki">Twitte
 
 For now enjoy our new Spank my Bunny Banner.
 
-<a href="http://s17.postimg.org/mmj9asafz/spankmybunny02_512.png"></a>
+<img src="http://s17.postimg.org/mmj9asafz/spankmybunny02_512.png"></a>
 
 Regards,
 Uzumaki Studios
