@@ -3,6 +3,6 @@ permalink: /:year/:month/:day/:title
 markdown: rdiscount
 exclude: ['.git']
 name: "Uzumaki Studios"
-description: "politically incorrect games."
-long_description: "gamedev startup creating politically incorrect games."
+description: "Politically incorrect games."
+long_description: "Gamedev startup creating politically incorrect games."
 url: http://uzumakistudios.com
