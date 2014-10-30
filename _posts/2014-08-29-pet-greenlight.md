@@ -1,14 +1,15 @@
 ---
 layout: post
-title: PET na Steam Greenlight
+title: PET in Steam Greenlight
 ---
 
-Lançamos ontem o alpha do jogo PET na comunidade Greenlight da Steam, com o título "Spank my Bunny". 
-É uma oportunidade de mostrarmos novidades sobre o desenvolvimento do jogo. 
+We launched yesterday our Pet Project in Greenlight community from Steam, with <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=307251360">"Spank My Bunny"</a> title. 
 
-O _screencast_ seguinte mostra o estado atual e a jogabilidade.
+As we are in very early development we released a _screencast_ (in BR-Portuguese)that present the current state and the concept of the gameplay.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/sIHtOMnMq_Y" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 
