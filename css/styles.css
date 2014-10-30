@@ -34,12 +34,10 @@ html {
 .wrapper h1 {
   margin-top: 0;
   padding: 50px 0 20px 0;
-  text-transform: lowercase;
 }
 
 .wrapper p {
   padding-bottom: 50px;
-  text-transform: lowercase;
 }
 
 body {
@@ -52,7 +50,6 @@ a {
 }
 
 .post-link {
-  text-transform: lowercase;
   display: block;
   max-width: 400px;
   padding: 20px 30px;
